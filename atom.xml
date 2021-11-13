@@ -3,11 +3,11 @@
   <title>郑飞的博客</title>
   
   <subtitle>郑飞的博客</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://sunhwee.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://sunhwee.com/"/>
   <updated>2021-11-10T02:18:46.837Z</updated>
-  <id>http://example.com/</id>
+  <id>https://sunhwee.com/</id>
   
   <author>
     <name>郑飞</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>林军涩情专属小破站</title>
-    <link href="http://example.com/2021/11/10/hello-world/"/>
-    <id>http://example.com/2021/11/10/hello-world/</id>
+    <link href="https://sunhwee.com/2021/11/10/hello-world/"/>
+    <id>https://sunhwee.com/2021/11/10/hello-world/</id>
     <published>2021-11-10T02:18:46.843Z</published>
     <updated>2021-11-10T02:18:46.837Z</updated>
     
@@ -34,6 +34,35 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>博客开源</title>
+    <link href="https://sunhwee.com/2019/08/27/Blog-Open-Source/"/>
+    <id>https://sunhwee.com/2019/08/27/Blog-Open-Source/</id>
+    <published>2019-08-27T03:41:03.000Z</published>
+    <updated>2021-11-11T14:39:55.544Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;效果演示&quot;&gt;&lt;a href=&quot;#效果演示&quot; class=&quot;headerlink&quot; title=&quot;效果演示&quot;&gt;&lt;/a&gt;效果演示&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="软件安装与配置" scheme="https://sunhwee.com/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="Hexo" scheme="https://sunhwee.com/tags/Hexo/"/>
+    
+    <category term="Github" scheme="https://sunhwee.com/tags/Github/"/>
+    
+    <category term="博客" scheme="https://sunhwee.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
